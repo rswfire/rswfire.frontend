@@ -1,4 +1,4 @@
-# @rswfire/rswfire.com-frontend
+# @rswfire/rswfire.frontend
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.0-blue)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-orange)](https://www.typescriptlang.org)
@@ -8,4 +8,4 @@
 
 ---
 
-`rswfire.com-frontend` is the homepage of **Robert Samuel White**, powered by [Autonomy](https://github.com/rswfire/rswfire.autonomy).
+`rswfire.frontend` is the homepage of **Robert Samuel White**, powered by [Autonomy](https://github.com/rswfire/rswfire.autonomy).
