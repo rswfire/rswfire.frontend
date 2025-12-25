@@ -2,7 +2,7 @@
 set -euo pipefail
 
 DOMAIN="frontend.rswfire.com"
-APP_DIR="/home/rswfire/www/rswfire.com-frontend"
+APP_DIR="/home/rswfire/www/rswfire.frontend"
 BRANCH="main"
 
 echo "🚀 Deploying $DOMAIN to server..."
